@@ -1,0 +1,2 @@
+rootProject.name='Aflak'
+include ':app'
